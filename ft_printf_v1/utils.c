@@ -43,3 +43,4 @@ char	get_next_mod(const char *str)
 	return (str[i]);
 }
 
+ 
